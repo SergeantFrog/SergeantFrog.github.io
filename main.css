@@ -32,9 +32,9 @@ p span
     position: relative;
     top: 60px;
     bottom: -60px;
-	padding: 10px;
+	padding: 10px 10px 200px 10px;
     z-index: 0;
-    margin-bottom: 60px;
+    margin-bottom: 400px;
 }
 .footer {
     background-color: rgb(8, 36, 129);
